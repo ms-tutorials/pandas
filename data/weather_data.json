@@ -1,0 +1,10 @@
+{
+  "location": "Nairobi",
+  "forecast": [
+    { "day": "Monday", "temp": 25 },
+    { "day": "Tuesday", "temp": 30 },
+    { "day": "Wednesday", "temp": 22 },
+    { "day": "Thursday", "temp": 32 },
+    { "day": "Friday", "temp": 50 }
+  ]
+}
